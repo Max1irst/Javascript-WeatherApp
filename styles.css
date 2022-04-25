@@ -64,8 +64,16 @@ body{
 
 .app{
     position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
     background: #9ad1eb;
+    font-size: 22px;
+    font-weight: 500;
+    color: #4e4e4e;
     width: 250px;
     height: 400px;
-    border-radius: 15px;
+    border-radius: 10px;
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3);
 }
