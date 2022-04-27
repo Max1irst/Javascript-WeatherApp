@@ -70,11 +70,16 @@ body{
     align-items: center;
     text-align: center;
     background: #9ad1eb;
-    font-size: 22px;
+    font-size: 24px;
     font-weight: 500;
     color: #4e4e4e;
     width: 250px;
     height: 400px;
     border-radius: 10px;
     box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3);
+}
+.city{
+    font-size: 28px;
+    color: #202b68;
+    font-weight: 800;
 }
