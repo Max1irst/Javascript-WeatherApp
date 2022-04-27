@@ -68,6 +68,7 @@ body{
     flex-direction: column;
     justify-content: space-evenly;
     align-items: center;
+    text-align: center;
     background: #9ad1eb;
     font-size: 22px;
     font-weight: 500;
